@@ -1,0 +1,3 @@
+/home/bagieta/Desktop/CostSplitting/build/CMakeFiles/main.dir
+/home/bagieta/Desktop/CostSplitting/build/CMakeFiles/edit_cache.dir
+/home/bagieta/Desktop/CostSplitting/build/CMakeFiles/rebuild_cache.dir
